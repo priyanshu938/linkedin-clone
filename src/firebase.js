@@ -4,12 +4,12 @@ import { getAuth } from "firebase/auth";
 import { getStorage } from "firebase/storage";
 
 const config = {
-  apiKey: "AIzaSyAYI5WPF49T0eEalJ-E-SbbzLVA5Pw9c8E",
-  authDomain: "linkedin-clone-5d9b5.firebaseapp.com",
-  projectId: "linkedin-clone-5d9b5",
-  storageBucket: "linkedin-clone-5d9b5.appspot.com",
-  messagingSenderId: "384810957020",
-  appId: "1:384810957020:web:6fa02cba6193593b57dc19",
+ apiKey: "AIzaSyBbJM5YoQxtVY56WRx13QSlsunbo4ztS-c",
+  authDomain: "clone-linkedin-f69cf.firebaseapp.com",
+  projectId: "clone-linkedin-f69cf",
+  storageBucket: "clone-linkedin-f69cf.appspot.com",
+  messagingSenderId: "511726819135",
+  appId: "1:511726819135:web:6c2254157185debbea658a"
 };
 
 const app = initializeApp(config);
